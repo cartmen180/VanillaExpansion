@@ -1,0 +1,6 @@
+EnableAssemblingMachines=true
+EnableLamps=true
+EnableSteamEngines=true
+EnableSolarPanels=true
+EnableAccumulators=true
+EnableMiningDrills=true

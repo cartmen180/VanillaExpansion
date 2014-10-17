@@ -1,0 +1,10 @@
+{
+  "name": "VanillaExpansion",
+  "version": "1.2",
+  "title": "Vanilla Expansion",
+  "author": "Cartmen180",
+  "contact": "cartmen180@gmail.com",
+  "homepage": "",
+  "description": "Adds some higher tier stuff like bigger lamps, better steam engines, faster assemblers, etc.",
+  "dependencies": ["base >= 0.10.0"]
+}
